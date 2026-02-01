@@ -1,0 +1,19 @@
+# Keil C / MDK-ARM junk
+*.uvoptx
+*.uvguix.*
+/Objects/
+/Listings/
+*.dep
+*.bak
+*.map
+
+# STM32CubeIDE / Eclipse junk
+/Debug/
+/Release/
+.settings/
+.metadata/
+*.launch
+
+# General
+.DS_Store
+Thumbs.db
